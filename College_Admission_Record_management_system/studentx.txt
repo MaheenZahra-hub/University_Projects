@@ -1,0 +1,49 @@
+Name:maheen zahra
+CNIC:3520176312184
+Student ID:2416
+Department:bscs
+Inter Marks:1098/1200
+Matric Marks:1005/1100
+-------------------------------
+Name:toba zafar
+CNIC:3520176312183
+Student ID:2417
+Department:bba
+Inter Marks:1044/1200
+Matric Marks:1034/1100
+-------------------------------
+Name:dania shahid
+CNIC:3520176312182
+Student ID:2418
+Department:it
+Inter Marks:1048/1200
+Matric Marks:1001/1100
+-------------------------------
+Name:1
+CNIC:3520176312184
+Student ID:2416
+Department:bscs
+Inter Marks:1089/1200
+Matric Marks:1004/1100
+-------------------------------
+Name:maheen
+CNIC:3520176312184
+Student ID:2415
+Department:bscs
+Inter Marks:1098/1200
+Matric Marks:1005/1100
+-------------------------------
+Name:zoya khan
+CNIC:3520176312146
+Student ID:2416
+Department:bscs
+Inter Marks:1076/1200
+Matric Marks:1000/1100
+-------------------------------
+Name:maheen zahra
+CNIC:3520176312184
+Student ID:2416
+Department:bscs
+Inter Marks:1090/1200
+Matric Marks:1000/1100
+-------------------------------

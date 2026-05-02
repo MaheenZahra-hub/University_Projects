@@ -1,0 +1,20 @@
+----All Degree Programs----Degree Name: BSCS
+Total Credit Hours:136
+Total courses:42
+BSCS Focuses on programming and problem solving skills.
+--------------------------------------------------------------------------------------------------------------
+Degree Name: BBA
+Total Credit Hours:132
+Total courses:40
+BBA Focuses on marketing and management.
+--------------------------------------------------------------------------------------------------------------
+Degree Name:IT
+Total Credit Hours:134
+Total courses:41
+IT Focuses on networking and information security.
+--------------------------------------------------------------------------------------------------------------
+Degree Name:English Literature
+Total Credit Hours:130
+Total courses:40
+English Literature focuses on english languages depth.
+--------------------------------------------------------------------------------------------------------------
